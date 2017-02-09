@@ -1,0 +1,5 @@
+D:\backup\Electricity Billing\BL\bin\Debug\BL.dll
+D:\backup\Electricity Billing\BL\bin\Debug\BL.pdb
+D:\backup\Electricity Billing\BL\obj\Debug\BL.dll
+D:\backup\Electricity Billing\BL\obj\Debug\BL.pdb
+D:\backup\Electricity Billing\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache

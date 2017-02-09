@@ -1,0 +1,36 @@
+D:\backup\Electricity Billing\DAL\bin\Debug\DAL.dll.config
+D:\backup\Electricity Billing\DAL\bin\Debug\DAL.dll
+D:\backup\Electricity Billing\DAL\bin\Debug\DAL.pdb
+D:\backup\Electricity Billing\DAL\bin\Debug\DTO.dll
+D:\backup\Electricity Billing\DAL\bin\Debug\EntityFramework.dll
+D:\backup\Electricity Billing\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup\Electricity Billing\DAL\bin\Debug\DTO.pdb
+D:\backup\Electricity Billing\DAL\bin\Debug\EntityFramework.xml
+D:\backup\Electricity Billing\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup\Electricity Billing\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\backup\Electricity Billing\DAL\obj\Debug\DAL.dll
+D:\backup\Electricity Billing\DAL\obj\Debug\DAL.pdb
+D:\backup\electric backup\Electricity Billing\DAL\bin\Debug\DAL.dll.config
+D:\backup\electric backup\Electricity Billing\DAL\bin\Debug\DAL.dll
+D:\backup\electric backup\Electricity Billing\DAL\bin\Debug\DAL.pdb
+D:\backup\electric backup\Electricity Billing\DAL\bin\Debug\DTO.dll
+D:\backup\electric backup\Electricity Billing\DAL\bin\Debug\EntityFramework.dll
+D:\backup\electric backup\Electricity Billing\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup\electric backup\Electricity Billing\DAL\bin\Debug\DTO.pdb
+D:\backup\electric backup\Electricity Billing\DAL\bin\Debug\EntityFramework.xml
+D:\backup\electric backup\Electricity Billing\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup\electric backup\Electricity Billing\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\backup\electric backup\Electricity Billing\DAL\obj\Debug\DAL.dll
+D:\backup\electric backup\Electricity Billing\DAL\obj\Debug\DAL.pdb
+D:\Projects\C#\ElectricityBilling\DAL\bin\Debug\DAL.dll.config
+D:\Projects\C#\ElectricityBilling\DAL\bin\Debug\DAL.dll
+D:\Projects\C#\ElectricityBilling\DAL\bin\Debug\DAL.pdb
+D:\Projects\C#\ElectricityBilling\DAL\bin\Debug\DTO.dll
+D:\Projects\C#\ElectricityBilling\DAL\bin\Debug\EntityFramework.dll
+D:\Projects\C#\ElectricityBilling\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\ElectricityBilling\DAL\bin\Debug\DTO.pdb
+D:\Projects\C#\ElectricityBilling\DAL\bin\Debug\EntityFramework.xml
+D:\Projects\C#\ElectricityBilling\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\ElectricityBilling\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Projects\C#\ElectricityBilling\DAL\obj\Debug\DAL.dll
+D:\Projects\C#\ElectricityBilling\DAL\obj\Debug\DAL.pdb

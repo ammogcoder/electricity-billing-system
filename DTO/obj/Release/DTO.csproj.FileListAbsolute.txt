@@ -1,0 +1,5 @@
+D:\backup\Electricity Billing\DTO\bin\Release\DTO.dll.config
+D:\backup\Electricity Billing\DTO\bin\Release\DTO.dll
+D:\backup\Electricity Billing\DTO\bin\Release\DTO.pdb
+D:\backup\Electricity Billing\DTO\obj\Release\DTO.dll
+D:\backup\Electricity Billing\DTO\obj\Release\DTO.pdb

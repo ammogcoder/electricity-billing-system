@@ -1,0 +1,11 @@
+D:\backup\Electricity Billing\Service\bin\Release\Service.dll
+D:\backup\Electricity Billing\Service\bin\Release\Service.pdb
+D:\backup\Electricity Billing\Service\bin\Release\DAL.dll
+D:\backup\Electricity Billing\Service\bin\Release\DTO.dll
+D:\backup\Electricity Billing\Service\bin\Release\EntityFramework.dll
+D:\backup\Electricity Billing\Service\bin\Release\DAL.pdb
+D:\backup\Electricity Billing\Service\bin\Release\DTO.pdb
+D:\backup\Electricity Billing\Service\bin\Release\EntityFramework.xml
+D:\backup\Electricity Billing\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+D:\backup\Electricity Billing\Service\obj\Release\Service.dll
+D:\backup\Electricity Billing\Service\obj\Release\Service.pdb

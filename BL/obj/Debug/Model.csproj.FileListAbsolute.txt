@@ -1,0 +1,15 @@
+D:\backup\Electricity Billing\BL\bin\Debug\Model.dll
+D:\backup\Electricity Billing\BL\bin\Debug\Model.pdb
+D:\backup\Electricity Billing\BL\obj\Debug\Model.dll
+D:\backup\Electricity Billing\BL\obj\Debug\Model.pdb
+D:\backup\Electricity Billing\BL\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\backup\electric backup\Electricity Billing\BL\bin\Debug\Model.dll
+D:\backup\electric backup\Electricity Billing\BL\bin\Debug\Model.pdb
+D:\backup\electric backup\Electricity Billing\BL\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\backup\electric backup\Electricity Billing\BL\obj\Debug\Model.dll
+D:\backup\electric backup\Electricity Billing\BL\obj\Debug\Model.pdb
+D:\Projects\C#\ElectricityBilling\BL\bin\Debug\Model.dll
+D:\Projects\C#\ElectricityBilling\BL\bin\Debug\Model.pdb
+D:\Projects\C#\ElectricityBilling\BL\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Projects\C#\ElectricityBilling\BL\obj\Debug\Model.dll
+D:\Projects\C#\ElectricityBilling\BL\obj\Debug\Model.pdb

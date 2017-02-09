@@ -1,0 +1,12 @@
+D:\backup\Electricity Billing\DAL\bin\Release\DAL.dll.config
+D:\backup\Electricity Billing\DAL\bin\Release\DAL.dll
+D:\backup\Electricity Billing\DAL\bin\Release\DAL.pdb
+D:\backup\Electricity Billing\DAL\bin\Release\DTO.dll
+D:\backup\Electricity Billing\DAL\bin\Release\EntityFramework.dll
+D:\backup\Electricity Billing\DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\backup\Electricity Billing\DAL\bin\Release\DTO.pdb
+D:\backup\Electricity Billing\DAL\bin\Release\EntityFramework.xml
+D:\backup\Electricity Billing\DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\backup\Electricity Billing\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\backup\Electricity Billing\DAL\obj\Release\DAL.dll
+D:\backup\Electricity Billing\DAL\obj\Release\DAL.pdb

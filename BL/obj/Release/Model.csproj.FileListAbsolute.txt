@@ -1,0 +1,4 @@
+D:\backup\Electricity Billing\BL\bin\Release\Model.dll
+D:\backup\Electricity Billing\BL\bin\Release\Model.pdb
+D:\backup\Electricity Billing\BL\obj\Release\Model.dll
+D:\backup\Electricity Billing\BL\obj\Release\Model.pdb

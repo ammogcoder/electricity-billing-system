@@ -1,0 +1,22 @@
+D:\backup\Electricity Billing\DTO\bin\Debug\DTO.dll.config
+D:\backup\Electricity Billing\DTO\bin\Debug\DTO.dll
+D:\backup\Electricity Billing\DTO\bin\Debug\DTO.pdb
+D:\backup\Electricity Billing\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\backup\Electricity Billing\DTO\obj\Debug\DTO.dll
+D:\backup\Electricity Billing\DTO\obj\Debug\DTO.pdb
+D:\backup\electric backup\Electricity Billing\DTO\bin\Debug\DTO.dll.config
+D:\backup\electric backup\Electricity Billing\DTO\bin\Debug\DTO.dll
+D:\backup\electric backup\Electricity Billing\DTO\bin\Debug\DTO.pdb
+D:\backup\electric backup\Electricity Billing\DTO\bin\Debug\EntityFramework.dll
+D:\backup\electric backup\Electricity Billing\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup\electric backup\Electricity Billing\DTO\bin\Debug\EntityFramework.xml
+D:\backup\electric backup\Electricity Billing\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup\electric backup\Electricity Billing\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\backup\electric backup\Electricity Billing\DTO\obj\Debug\DTO.dll
+D:\backup\electric backup\Electricity Billing\DTO\obj\Debug\DTO.pdb
+D:\Projects\C#\ElectricityBilling\DTO\bin\Debug\DTO.dll.config
+D:\Projects\C#\ElectricityBilling\DTO\bin\Debug\DTO.dll
+D:\Projects\C#\ElectricityBilling\DTO\bin\Debug\DTO.pdb
+D:\Projects\C#\ElectricityBilling\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Projects\C#\ElectricityBilling\DTO\obj\Debug\DTO.dll
+D:\Projects\C#\ElectricityBilling\DTO\obj\Debug\DTO.pdb
